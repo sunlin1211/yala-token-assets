@@ -1,6 +1,6 @@
 {
   "name": "YALA Token List",
-  "timestamp": "2025-07-23T04:36:18.045329Z",
+  "timestamp": "2025-07-23T04:36:18.045Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 56,
-      "address": "0xFC6772d328900d6266EAf13b03E61491C4F88888",
+      "address": "0xFC6772d328900d6266EAF13b03E61491C4F88888",
       "name": "YALA",
       "symbol": "YALA",
       "decimals": 18,
@@ -21,6 +21,7 @@
       ],
       "extensions": {
         "description": "Protocol that enables Bitcoin holders to earn real yield from DeFi and RWAs without giving up ownership of their assets. Core mechanisms include collateral management.",
+        "website": "https://yalavip.xyz",
         "telegram": "https://t.me/+ZPbHBgwhXdY2MWY5",
         "twitter": "https://x.com/i/communities/1947877463100633416"
       }
